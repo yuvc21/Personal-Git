@@ -1,6 +1,16 @@
 # Custom-Shell
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 A feature-rich Unix shell built from scratch in C++, implementing core shell functionalities including command execution, I/O redirection, pipelines, and intelligent tab completion.
+
+[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Roadmap](#roadmap)
+
+</div>
 
 ## ✨ Features
 
